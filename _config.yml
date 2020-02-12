@@ -1,4 +1,12 @@
 theme: jekyll-theme-minimal
 
+title: Uladzimir Akulovich
+logo: uladakulovich.png
+
+description: 
+
+# Github
+github.is_project_page: false
+
 # Google services
 google_analytics: UA-157612102-1
